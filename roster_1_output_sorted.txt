@@ -1,0 +1,99 @@
+File: roster.txt
+*************** TEAM USC ***************
+
+
+    *** COACHES ***
+
+        Coach: Jim Boeheim
+            Wins: 23
+            Loses: 3
+            Ratio: 88%
+        Coach: Tony Bland
+            Wins: 55
+            Loses: 9
+            Ratio: 86%
+        Coach: Andy Enfield
+            Wins: 60
+            Loses: 12
+            Ratio: 83%
+        Coach: Jason Hart
+            Wins: 12
+            Loses: 4
+            Ratio: 75%
+        Coach: Steve Fisher
+            Wins: 20
+            Loses: 10
+            Ratio: 67%
+
+    *** PLAYERS ***
+
+        Player: 11, Jordan McLaughlin
+            Height: 73 inches
+            Weight: 10 lbs
+            Shooting Average: 30%
+            Overall Score: 1.74
+        Player: 13, Samer Dhillon
+            Height: 79 inches
+            Weight: 220 lbs
+            Shooting Average: 50%
+            Overall Score: 0.52
+        Player: 40, David Garry
+            Height: 72 inches
+            Weight: 170 lbs
+            Shooting Average: 100%
+            Overall Score: 0.44
+        Player: 30, Elijah Stewart
+            Height: 77 inches
+            Weight: 180 lbs
+            Shooting Average: 30%
+            Overall Score: 0.41
+        Player: 2, Malik Martin
+            Height: 83 inches
+            Weight: 220 lbs
+            Shooting Average: 38%
+            Overall Score: 0.24
+        Player: 14, Strahinja Gavrilovic
+            Height: 81 inches
+            Weight: 230 lbs
+            Shooting Average: 63%
+            Overall Score: 0.24
+        Player: 31, Derryck Thornton
+            Height: 74 inches
+            Weight: 175 lbs
+            Shooting Average: 28%
+            Overall Score: 0.22
+        Player: 24, Malik Marquetti
+            Height: 78 inches
+            Weight: 195 lbs
+            Shooting Average: 32%
+            Overall Score: 0.2
+        Player: 0, Darion Clark
+            Height: 79 inches
+            Weight: 220 lbs
+            Shooting Average: 23%
+            Overall Score: 0.14
+        Player: 4, Chimezie Metu
+            Height: 83 inches
+            Weight: 215 lbs
+            Shooting Average: 8%
+            Overall Score: 0.12
+        Player: 21, Kurt Karis
+            Height: 73 inches
+            Weight: 190 lbs
+            Shooting Average: 17%
+            Overall Score: 0.12
+        Player: 25, Bennie Boatwright
+            Height: 82 inches
+            Weight: 220 lbs
+            Shooting Average: 8%
+            Overall Score: 0.12
+        Player: 3, Shaqquan Aaron
+            Height: 79 inches
+            Weight: 175 lbs
+            Shooting Average: 25%
+            Overall Score: 0.11
+        Player: 12, Julian Jacobs
+            Height: 76 inches
+            Weight: 180 lbs
+            Shooting Average: 7%
+            Overall Score: 0.1

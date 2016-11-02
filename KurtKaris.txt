@@ -1,0 +1,5 @@
+        Player: 21, Kurt Karis
+            Height: 73 inches
+            Weight: 190 lbs
+            Shooting Average: 17%
+            Overall Score: 0.12

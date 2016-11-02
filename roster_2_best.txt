@@ -1,0 +1,5 @@
+        Player: 41, Chris Pratt
+            Height: 71 inches
+            Weight: 150 lbs
+            Shooting Average: 67%
+            Overall Score: 4.39

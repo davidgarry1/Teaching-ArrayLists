@@ -1,0 +1,36 @@
+Mickey Mouse::22::14
+Tony Bland::55::9
+Donald Duck::10::10
+Jason Hart::12::4
+Nicki Minaj::96::30
+Steve Fisher::20::10
+Jim Boeheim::23::3
+Kendrick Lamar::9::8
+Andy Enfield::60::12
+Dr. Dre::11::42
+Hillary Trump::24::99
+Snoop Dogg::420::30
+46::Alejandro Lambda::6-1::190::15::10::0::25
+50::Baroque Art::4-11::140::12::10::1::40
+24::Malik Marquetti::6-6::195::69::22::18::245
+25::Bennie Boatwright::6-10::220::12::1::22::243
+30::Elijah Stewart::6-5::180::23::7::20::123
+31::Derryck Thornton::6-2::175::322::89::41::314
+40::David Garry::6-0::170::600::599::300::900
+41::Chris Pratt::5-11::150::300::200::12::18
+51::Glorya Kaufman::5-5::120::10::2::0::11
+52::Kobe Freaking Bryant::6-7::230::50000::10000::500::500
+53::Shortest Player::2-11::90::400::200::100::50
+4::Chimezie Metu::6-11::215::234::19::13::180
+11::Jordan McLaughlin::6-1::10::20::6::29::34
+12::Julian Jacobs::6-4::180::312::21::43::490
+13::Samer Dhillon::6-7::220::4::2::12::120
+14::Strahinja Gavrilovic::6-9::230::32::20::9::300
+21::Kurt Karis::6-1::190::170::29::7::193
+44::Justin Bieber::5-10::145::200::120::15::20
+45::The Grinch::7-1::200::12::1::1::40
+54::Tallest Player::9-1::400::300::200::100::60
+43::Lil' Wayne Uzi Vert::4-2::120::6000::1::0::1
+0::Darion Clark::6-7::220::210::49::24::340
+2::Malik Martin::6-11::220::240::90::34::300
+3::Shaqquan Aaron::6-7::175::40::10::2::245

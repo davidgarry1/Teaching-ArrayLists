@@ -1,0 +1,5 @@
+        Player: 11, Jordan McLaughlin
+            Height: 73 inches
+            Weight: 10 lbs
+            Shooting Average: 30%
+            Overall Score: 1.74

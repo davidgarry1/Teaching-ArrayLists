@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=coaches\ players\ fileName
+comment0.target=Encapsulation(java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String)
+comment1.params=
+comment1.target=void\ populateRoster()
+comment1.text=\n\ Don't\ worry\ about\ this\ method\n
+comment2.params=fileName
+comment2.target=java.io.InputStream\ openFile(java.lang.String)
+comment2.text=\n\ Don't\ worry\ about\ this\ method\n
+comment3.params=
+comment3.target=void\ sort()
+comment3.text=\n\ Don't\ worry\ about\ this\ method\n
+comment4.params=object1\ object2
+comment4.target=int\ compare(Player,\ Player)
+comment5.params=object1\ object2
+comment5.target=int\ compare(Coach,\ Coach)
+numComments=6

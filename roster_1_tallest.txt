@@ -1,0 +1,16 @@
+        Player: 2, Malik Martin
+            Height: 83 inches
+            Weight: 220 lbs
+            Shooting Average: 38%
+            Overall Score: 0.24
+
+OR
+
+        Player: 4, Chimezie Metu
+            Height: 83 inches
+            Weight: 215 lbs
+            Shooting Average: 8%
+            Overall Score: 0.12
+
+
+(EITHER IS ACCEPTABLE)
